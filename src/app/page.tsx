@@ -1,8 +1,7 @@
 const HomePage = () => {
   return(
     <div>
-      éc éc
-      page
+    sign in to continue
     </div>
   )
 }
